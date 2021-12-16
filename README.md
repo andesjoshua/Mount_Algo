@@ -1,11 +1,11 @@
 # Mount Algo
 ## Your Algorithm Adventures Await!
 
-[Click here to play Mount Algo](www.google.com)
+[Click here to play Mount Algo](https://still-garden-51529.herokuapp.com/)
 
 Collaborators: [Joshua Andes](https://github.com/andesjoshua), [Shannon Sorensen](https://github.com/ShanSorensen), [Alex Wentz](https://github.com/fromwentzitcame)
 
-Check out some of my other work here: [insert a portfolio site url]()
+Check out some of my other work here: [Portfolio](http://andesjoshua.herokuapp.com/
 
 ### Description
 - **Goal:** To gamify working with algorithms and make practicing algorithms more fun and engaging
